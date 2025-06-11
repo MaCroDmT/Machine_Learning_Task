@@ -147,7 +147,8 @@ cricket-match-outcome-prediction/
 
 * Visual Crossing for weather data API.
 * Scikit-learn, Pandas, and Matplotlib communities for excellent documentation.
-* SMC Labs BD for the case study and challenge dataset.
+* SMC Labs BD for the case study
+* Kaggle for the dataset.
 
 ---
 
